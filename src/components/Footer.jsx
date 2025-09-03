@@ -8,14 +8,14 @@ const Footer = () => {
   const waSupportLink = `https://wa.me/${phone}?text=${encodeURIComponent(supportMessage)}`;
 
   const socialLinks = [
-    { name: 'Facebook', href: '#', icon: Facebook },
-    { name: 'Instagram', href: '#', icon: Instagram },
-    { name: 'LinkedIn', href: '#', icon: Linkedin },
-    { name: 'Twitter', href: '#', icon: Twitter },
+    { name: 'Facebook', href: 'https://www.facebook.com/profile.php?id=100082431646990', icon: Facebook },
+    { name: 'Instagram', href: 'https://www.instagram.com/tcnocertificadoradigital', icon: Instagram },
+    { name: 'LinkedIn', href: 'https://www.linkedin.com', icon: Linkedin },
+    { name: 'Twitter', href: 'https://www.x.com', icon: Twitter },
   ];
 
   const quickLinks = [
-    { name: 'Sobre',      to: '#sobre',  type: 'anchor' },
+    { name: 'Sobre Nós',      to: '#sobre',  type: 'anchor' },
     { name: 'Serviços',   to: '#tipos',  type: 'anchor' },
     { name: 'FAQ',        to: '/faq',    type: 'route'  },
     { name: 'Suporte',    href: waSupportLink, type: 'external' },
