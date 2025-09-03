@@ -37,7 +37,7 @@ const Hero = () => {
             <div className="text-gray-300">Suporte</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-tcno-light">+5000</div>
+            <div className="text-3xl font-bold text-tcno-light">+500</div>
             <div className="text-gray-300">Clientes</div>
           </div>
         </div>

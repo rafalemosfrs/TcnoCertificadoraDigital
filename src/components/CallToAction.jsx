@@ -14,7 +14,7 @@ const CallToAction = () => {
           <span className="text-tcno-light"> identidade digital?</span>
         </h2>
         <p className="text-xl text-gray-300 mb-12 max-w-3xl mx-auto">
-          Junte-se a milhares de pessoas e empresas que já confiam na Tcno 
+          Junte-se a centenas de pessoas e empresas que já confiam na Tcno 
           para suas certificações digitais.
         </p>
         
